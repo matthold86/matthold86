@@ -1,25 +1,28 @@
 # Hi there 👋
-I'm Matt Holden, a passionate Data Scientist from Grand Rapids, MI! 🌎
+## 🕺 About Me
 
-## 🚀 Skills and Tools
-- 💻 Programming: Python, Rust, SQL
-- 📊 Data Science: Pandas, NumPy, PyTorch
-- 🌐 Web: HTML, CSS, FastAPI
+My name is Matt Holden. 
+
+Sometimes I have ideas and think "Could I build that?".
+Here are the ideas that made it past the first screening process.
+I'm a data scientist with a curiosity for machine learning, cloud computing, and a hint of backend web development.
 
 ## 🔭 Current Projects
-- Building a **homography prediction model** for basketball court rectification 🏀
-- Building a **AI Classroom Assistant** for empowering teachers to integrate AI in the classroom ✏️
+- Building a [homography matrix prediction model](https://github.com/Duke-Basketball-Analytics/homography-deep-learning-model) (part of a larger project for tracking basketball player locations from game footage) 🏀
+- Building a [AI Classroom Assistant](https://github.com/matthold86/AI.ClassroomAssistant) for empowering teachers to integrate AI in the classroom ✏️
 
 ## 🌱 Learning Goals
 - Mastering FastAPI for async programming
-- AWS cloud resource management (AWS Solutions Archietect Certification ETA April 2025!)
+- AWS Solutions Architect Certification ETA April 2025!
 
-## 🎯 Fun Facts
-- I love running and meal prepping 🍳🏃
+## 🎯 **Free Time**
+- I love running, playing tennis and basketball, and meal prepping 🍳🏃
 - Big fan of sci-fi and fantasy novels 📚✨
 
 ## 📬 Connect with Me
-- LinkedIn: [My LinkedIn 🕺](www.linkedin.com/in/matthew-holden86)
+- LinkedIn: [ --> My LinkedIn <--](www.linkedin.com/in/matthew-holden86)
+
+
 
 
 
