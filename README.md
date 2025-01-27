@@ -4,8 +4,7 @@
 My name is Matt Holden. 
 
 Sometimes I have ideas and think "Could I build that?".
-Here are the ideas that made it past the first screening process.
-I'm a data scientist with a curiosity for machine learning, cloud computing, and a hint of backend web development.
+Here you'll find the ideas that made it past the first screening process. I'm a data scientist with a curiosity for machine learning, cloud computing, and a hint of backend web development.
 
 ## 🔭 Current Projects
 - Building a [homography matrix prediction model](https://github.com/Duke-Basketball-Analytics/homography-deep-learning-model) (part of a larger project for tracking basketball player locations from game footage) 🏀
