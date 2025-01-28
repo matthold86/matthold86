@@ -16,7 +16,7 @@ I'm a data scientist with a curiosity for machine learning, cloud computing, and
 - Big fan of sci-fi and fantasy novels 📚✨
 
 ## 📬 Connect with Me
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/matthew-holden86)
+- LinkedIn: [My LinkedIn](http://www.linkedin.com/in/matthew-holden86)
 
 
 
