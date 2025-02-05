@@ -1,5 +1,5 @@
 # Hi there 👋
-## 🕺 About Me
+## 🔎 About Me
 
 I'm a data scientist with a curiosity for machine learning, cloud computing, and a hint of backend web development. Sometimes I have an idea and think "Could I build that?". These are the ideas that made it past the first screening process. 
 
