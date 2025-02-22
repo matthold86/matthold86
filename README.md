@@ -5,7 +5,7 @@ I'm a data scientist with a curiosity for machine learning, cloud computing, and
 
 ## 🔭 Current Projects
 - Building a [homography matrix prediction model](https://github.com/Duke-Basketball-Analytics/homography-deep-learning-model) (part of a larger project for tracking basketball player locations from game footage) 🏀
-- Building an [AI Classroom Assistant](https://github.com/matthold86/AI.ClassroomAssistant) for empowering teachers to integrate AI in the classroom ✏️
+- Building a web application for rapid unsupervised clustering experimentation, integrating elbow curves, PCA, and interactive visualization. ᠅
 
 ## 🌱 Learning Goals
 - Mastering FastAPI for async programming
