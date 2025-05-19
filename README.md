@@ -8,8 +8,8 @@ I'm a data scientist with a curiosity for machine learning, cloud computing, and
 - Building a web application for rapid unsupervised clustering experimentation, integrating elbow curves, PCA, and interactive visualization. ᠅
 
 ## 🌱 Learning Goals
-- Mastering FastAPI for async programming
-- AWS Solutions Architect Certification ETA April 2025!
+- Mastering FastAPI for async programming 
+- AWS Solutions Architect Certification
 
 ## 🎯 **Free Time**
 - I love running, playing tennis and basketball, and meal prepping 🍳🏃
